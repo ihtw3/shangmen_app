@@ -1,0 +1,12 @@
+order_id,username,service_type,price,status,created_at,address,phone,details
+aa8efc3e-22b9-4a1a-8800-ec1dfa07dd2e,admin,上门做饭,128,待支付,2026-04-16 19:04:55,北京市朝阳区望京SOHO,138****8888,"{""cuisine"": ""川菜"", ""dishCount"": ""4菜1汤"", ""serviceDate"": ""2026-04-17"", ""serviceTime"": ""午餐 (11:00-14:00)""}"
+62fd1f36-1266-4c2d-805f-4e825874eb9c,admin,上门喂宠,68,待支付,2026-04-16 19:05:06,北京市朝阳区望京SOHO,138****8888,"{""petType"": ""狗"", ""serviceFrequency"": ""每天2次"", ""serviceDate"": ""2026-04-17"", ""serviceDuration"": ""1小时""}"
+6cd31af2-7d7b-46f3-8836-bc4b01e98dfd,admin,上门做饭,128,待支付,2026-04-17 08:56:11,北京市朝阳区望京SOHO,138****8888,"{""cuisine"": ""川菜"", ""dishCount"": ""6菜1汤"", ""serviceDate"": ""2026-04-17"", ""serviceTime"": ""晚餐 (17:00-20:00)""}"
+f4bc7508-061c-42c1-9d5f-86508f5828de,admin,上门喂宠,68,待支付,2026-04-17 09:00:34,北京市朝阳区望京SOHO,138****8888,"{""petType"": ""猫"", ""serviceFrequency"": ""每天2次"", ""serviceDate"": ""2026-04-17"", ""serviceDuration"": ""2小时""}"
+f5f26d5f-cfc9-42ea-8fc0-00103d314286,admin,上门喂宠,68,待支付,2026-04-17 10:58:33,北京市北京市朝阳区望京SOHO T1 2801,13800138000,"{""petType"": ""狗"", ""serviceFrequency"": ""每天1次"", ""serviceDate"": ""2026-04-17"", ""serviceDuration"": ""30分钟""}"
+be99e08a-3c02-425d-88ee-01f8c8f48cd3,admin,上门喂宠,68,待支付,2026-04-17 10:59:03,3456,2,"{""petType"": ""狗"", ""serviceFrequency"": ""每天2次"", ""serviceDate"": ""2026-04-17"", ""serviceDuration"": ""30分钟""}"
+e8356b13-4d7a-4446-a5af-e733a62e1d3a,admin,上门洗车,98,待支付,2026-04-17 11:16:21,北京市北京市朝阳区望京SOHO T1 2801,13800138000,{}
+4f8186cf-ae80-4c9a-93ac-9d588e81302e,aqukinn,上门维修,128,待支付,2026-04-17 12:18:00,1111,1,"{""repairType"": ""家电维修"", ""urgency"": ""普通"", ""serviceDate"": ""2026-04-17"", ""serviceTime"": ""上午 (9:00-12:00)""}"
+d455c720-67a6-43c2-91ce-d28ec709d903,lw123,上门做饭,128,待支付,2026-04-26 21:01:07,2233444222,11,"{""cuisine"": ""川菜"", ""dishCount"": ""4菜1汤"", ""serviceDate"": ""2026-04-26"", ""serviceTime"": ""午餐 (11:00-14:00)""}"
+3badab88-9a00-43f6-b026-31ae6438de6b,lw123,上门维修,128,待支付,2026-04-26 21:01:57,2233444222,11,"{""repairType"": ""水电维修"", ""urgency"": ""紧急"", ""serviceDate"": ""2026-04-26"", ""serviceTime"": ""下午 (14:00-17:00)""}"
+0bdc1c63-736a-41af-b83a-343fa6f84ab8,lw123,上门洗车,98,待支付,2026-04-26 21:03:07,2233444222,11,"{""carwashType"": ""深度洗车"", ""carType"": ""中型车"", ""serviceDate"": ""2026-04-26"", ""serviceTime"": ""上午 (9:00-12:00)""}"

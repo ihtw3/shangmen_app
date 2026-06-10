@@ -1,0 +1,5 @@
+address_id,username,name,phone,province,city,district,detail_address,is_default
+1,admin,张三,13800138000,北京市,北京市,朝阳区,望京SOHO T1 2801,1
+2,admin,1,2,3,4,5,6,0
+3,aqukinn,1,1,1,1,1,1,0
+4,lw123,111,11,22,33,444,222,0
